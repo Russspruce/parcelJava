@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ParcelsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-04-25T22:26:49" hostname="epicodus-51.local" time="0.002">
+<testsuite name="ParcelsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-04-25T23:27:19" hostname="epicodus-51.local" time="0.001">
   <properties/>
-  <testcase name="getDistanceCost_distanceRangeCost_cost" classname="ParcelsTest" time="0.001"/>
+  <testcase name="getDistanceCost_distanceRangeCost_cost" classname="ParcelsTest" time="0.0"/>
   <testcase name="hasVolume_volumeTotal_volume" classname="ParcelsTest" time="0.0"/>
   <testcase name="costToShip_totalCostToShip_cost" classname="ParcelsTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
